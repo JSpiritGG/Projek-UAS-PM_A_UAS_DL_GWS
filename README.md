@@ -3,13 +3,12 @@
 ## 👥 Anggota Kelompok
 | No | Nama | NIM |
 |----|------|-----|
-| 1 | Michael Ardiyanto | XXXXXXXXXX |
-| 2 | [Nama Anggota 2] | XXXXXXXXXX |
-| 3 | [Nama Anggota 3] | XXXXXXXXXX |
-| 4 | [Nama Anggota 4] | XXXXXXXXXX |
+| 1 | Michael Ardiyanto | 230712327 |
+| 2 | Naomi Nadya Kinasih | 230712412 |
+| 3 | Jovita Maria E.H | 230712428 |
 
-**Kelas:** X (A/B/C)  
-**Nama Kelompok:** [Nama Kelompok]
+**Kelas:** A  
+**Nama Kelompok:** UAS DL GWS
 
 ---
 
@@ -25,7 +24,6 @@ Model dasar yang digunakan adalah **Gemma 2B** dari Google, yang di-fine-tune de
 |----------|------|
 | 🌐 **Demo Aplikasi** | [https://huggingface.co/spaces/JSpiritGG/jogja-kuliner-chatbot](https://huggingface.co/spaces/JSpiritGG/jogja-kuliner-chatbot) |
 | 🤖 **Model (HuggingFace)** | [https://huggingface.co/JSpiritGG/jogja-kuliner-chatbot](https://huggingface.co/JSpiritGG/jogja-kuliner-chatbot) |
-| 📊 **Dataset** | [Link Dataset] |
 
 ---
 
