@@ -3,12 +3,11 @@
 ## 👥 Anggota Kelompok
 | No | Nama | NIM |
 |----|------|-----|
-| 1 | Michael Ardiyanto | XXXXXXXXXX |
-| 2 | [Nama Anggota 2] | XXXXXXXXXX |
-| 3 | [Nama Anggota 3] | XXXXXXXXXX |
-| 4 | [Nama Anggota 4] | XXXXXXXXXX |
+| 1 | Michael Ardiyanto | 230712327 |
+| 2 | Naomi Nadya Kinasih | 230712412 |
+| 3 | Jovita Maria E.H | 230712428 |
 
-**Kelas:** X (A/B/C)  
+**Kelas:** A  
 **Nama Kelompok:** [Nama Kelompok]
 
 ---
