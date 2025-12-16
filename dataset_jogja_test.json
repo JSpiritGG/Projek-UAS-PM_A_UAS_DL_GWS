@@ -1,0 +1,450 @@
+[
+  {
+    "instruction": "Kuliner malam di Jogja?",
+    "output": "Angkringan (Lik Man), Gudeg Permata Bu Pujo, Sate Klathak Pak Bari (Pasar Wonokromo), dan Oseng Mercon Bu Narti semuanya buka malam."
+  },
+  {
+    "instruction": "Mengapa pendidikan Islam tradisional sulit bersaing?",
+    "output": "Karena tidak memberikan keterampilan modern yang dibutuhkan masyarakat."
+  },
+  {
+    "instruction": "Soto Kadipiro buka jam berapa?",
+    "output": "Soto Kadipiro buka pagi pukul 06.00 - 13.00 WIB. Sering sold out sebelum siang."
+  },
+  {
+    "instruction": "Es krim murah Jogja?",
+    "output": "Tempo Gelato untuk gelato premium. Rujak Es Krim Pak Nardi untuk pengalaman tradisional unik."
+  },
+  {
+    "instruction": "Review rasa Sate Klathak Pak Pong.",
+    "output": "Dagingnya empuk (kambing muda), bumbu minimalis garam lada, disajikan dengan kuah gulai kental."
+  },
+  {
+    "instruction": "Apa respons Mangkubumi ketika diperintahkan menghadapkan Diponegoro?",
+    "output": "Ia menolak dan justru bergabung dengan Diponegoro."
+  },
+  {
+    "instruction": "Mengapa Islam awal di Jawa bersifat kuantitas, bukan kualitas?",
+    "output": "Karena pengislaman terjadi cepat tanpa pendalaman doktrin."
+  },
+  {
+    "instruction": "Di mana Kongres Budi Utomo I dilaksanakan?",
+    "output": "Di Yogyakarta."
+  },
+  {
+    "instruction": "Apa istilah lain untuk Perang Diponegoro?",
+    "output": "Perang Jawa."
+  },
+  {
+    "instruction": "Makanan favorit mahasiswa Jogja?",
+    "output": "Favorit mahasiswa: Olive Fried Chicken, Burjo (Bubur Kacang Ijo), Warmindo (Warung Makan Indomie), dan penyetan pinggir jalan."
+  },
+  {
+    "instruction": "Siapa Tirto Adhi Soerjo?",
+    "output": "Redaktur dan usahawan yang aktif di luar Yogyakarta."
+  },
+  {
+    "instruction": "Mengapa priyayi Boedi Oetomo dianggap lebih rendah?",
+    "output": "Karena banyak berasal dari priyayi baru yang diangkat bukan dari darah keturunan."
+  },
+  {
+    "instruction": "Keripik khas Jogja?",
+    "output": "Untuk oleh-oleh tahan lama: Bakpia Pathok, Gudeg Kaleng Yu Djum, atau Chocolate Monggo. Semuanya bisa tahan 1-2 minggu."
+  },
+  {
+    "instruction": "Mengapa stratifikasi tetap bertahan meski kolonial masuk?",
+    "output": "Karena simbol, adat, dan hierarki budaya tetap dijaga oleh elit lokal."
+  },
+  {
+    "instruction": "Kenapa makanan Jogja cenderung manis?",
+    "output": "Historisnya wilayah Mataram penghasil gula. Gula simbol kemakmuran, jadi banyak dipakai di masakan."
+  },
+  {
+    "instruction": "Siapa yang ikut menjaga sultan saat dibawa ke Pakualaman?",
+    "output": "Pengikut Paku Alam."
+  },
+  {
+    "instruction": "Apa dampak politik setelah perang usai?",
+    "output": "Kasultanan Yogyakarta diperkecil wilayahnya."
+  },
+  {
+    "instruction": "Bentuk dukungan apa yang diberikan Natakusuma kepada Inggris?",
+    "output": "Menjadi mediator politik dengan keraton."
+  },
+  {
+    "instruction": "Apa warisan terbesar Perang Diponegoro?",
+    "output": "Munculnya nasionalisme Jawa yang meluas ke seluruh Nusantara."
+  },
+  {
+    "instruction": "Siapa menjadi sultan setelah Inggris menguasai keraton?",
+    "output": "Hamengku Buwana III."
+  },
+  {
+    "instruction": "Mengapa keluarga batih dianggap penting?",
+    "output": "Karena menjadi pusat awal pendidikan, perlindungan, dan pembentukan nilai."
+  },
+  {
+    "instruction": "Apa strategi awal Diponegoro setelah mendapat banyak dukungan rakyat?",
+    "output": "Mengepung ibu kota Yogyakarta."
+  },
+  {
+    "instruction": "Apa itu Ayam Geprek Bu Rum?",
+    "output": "Ayam Geprek Bu Rum adalah pelopor ayam geprek di Jogja. Ayam goreng tepung digeprek (dihancurkan) di cobek bersama sambal bawang mentah."
+  },
+  {
+    "instruction": "Apa nama surat kabar yang diterbitkan Ki Hajar?",
+    "output": "De Expres."
+  },
+  {
+    "instruction": "Kapan Inggris menyerang dan menguasai Yogyakarta?",
+    "output": "20 Juni 1812."
+  },
+  {
+    "instruction": "Mengapa diperlukan dokumentasi ulang kebudayaan Jawa?",
+    "output": "Karena dokumentasi lama tidak teratur sehingga banyak informasi budaya hilang."
+  },
+  {
+    "instruction": "Bagaimana kondisi jalan setelah perang berakhir?",
+    "output": "Jalan-jalan rusak parah akibat pergerakan pasukan. Namun jalan kecil masih dipakai warga sebagai jalur aktivitas."
+  },
+  {
+    "instruction": "Apa itu Sate Ratu?",
+    "output": "Sate Ratu adalah sate ayam merah yang populer di kalangan turis. Rasanya pedas manis gurih, lokasi di Sleman."
+  },
+  {
+    "instruction": "Apa itu Soto Bathok?",
+    "output": "Soto Bathok adalah soto ayam yang disajikan dalam tempurung kelapa (bathok). Unik dan fotogenik!"
+  },
+  {
+    "instruction": "Organisasi pengajaran apa yang terkenal lahir di Yogyakarta?",
+    "output": "Taman Siswa."
+  },
+  {
+    "instruction": "Apa fungsi keraton sementara di Ambarketawang?",
+    "output": "Tempat tinggal Sultan dan kerabat selama keraton utama dibangun."
+  },
+  {
+    "instruction": "Apa nilai utama dari tembang dan permainan anak Jawa?",
+    "output": "Sebagai sarana pendidikan moral dan kultural sejak kecil."
+  },
+  {
+    "instruction": "Berapa jumlah pabrik gula di sekitar Yogyakarta tahun 1870-an?",
+    "output": "Sekitar 17 pabrik."
+  },
+  {
+    "instruction": "Apa fungsi patung Diponegoro di sekitar Gua Selarong?",
+    "output": "Untuk mengenang perjuangannya selama perang."
+  },
+  {
+    "instruction": "Apa fungsi ruang panepèn dalam arsitektur rumah Jawa?",
+    "output": "Sebagai tempat berkontemplasi atau berkomunikasi dengan Tuhan."
+  },
+  {
+    "instruction": "Apa struktur pemerintahan tertinggi setelah sultan dalam keraton?",
+    "output": "Dua Pepatih Dalem, yaitu Patih Jaba dan Patih Jero."
+  },
+  {
+    "instruction": "Mengapa masyarakat Jawa mempertahankan kepercayaan lama?",
+    "output": "Karena tradisi itu menyatu dalam kehidupan agraris."
+  },
+  {
+    "instruction": "Gudeg yang paling enak di Jogja?",
+    "output": "Gudeg manis karena pengaruh budaya Mataram yang kaya gula. Manis melambangkan kemakmuran."
+  },
+  {
+    "instruction": "Mengapa keraton dibangun di antara dua sungai?",
+    "output": "Untuk mempermudah drainase, mencegah banjir, dan mendukung pertanian."
+  },
+  {
+    "instruction": "Mengapa Kota Gede dianggap suci?",
+    "output": "Karena mengandung makam raja Mataram."
+  },
+  {
+    "instruction": "Mengapa Diponegoro memilih Gua Selarong sebagai markas?",
+    "output": "Lokasinya terpencil dan sulit dijangkau pasukan Belanda. Pegunungan di sekitarnya sangat cocok untuk strategi gerilya."
+  },
+  {
+    "instruction": "Apa bentuk diferensiasi fungsi sosial yang muncul awal abad ke-20?",
+    "output": "Jabatan modern, birokrasi kolonial, dan profesi baru di kota."
+  },
+  {
+    "instruction": "Apa contoh masalah sosial yang muncul akibat perubahan zaman menurut dokumen?",
+    "output": "Masyarakat mulai mengabaikan nilai asli, menyebabkan melemahnya identitas budaya."
+  },
+  {
+    "instruction": "Mengapa pembangunan kebudayaan membutuhkan rujukan tata nilai?",
+    "output": "Agar kebijakan daerah berjalan sesuai jati diri dan karakter budaya Yogyakarta."
+  },
+  {
+    "instruction": "Organisasi wanita Katolik Yogyakarta dipimpin oleh siapa?",
+    "output": "Ny. Harjawiyana."
+  },
+  {
+    "instruction": "Apa alasan utama dirumuskannya Tata Nilai Budaya Yogyakarta secara eksplisit?",
+    "output": "Karena sistem nilai budaya sering tersimpan secara diam-diam dalam kesadaran kolektif, sehingga perlu dibuat rumusan eksplisit agar bisa menjadi pedoman perilaku masyarakat."
+  },
+  {
+    "instruction": "Di mana para bangsawan tinggal setelah perang?",
+    "output": "Di rumah-rumah bambu sederhana."
+  },
+  {
+    "instruction": "Bagaimana pasar membantu pemulihan masyarakat?",
+    "output": "Dengan menjadi tempat jual beli utama setelah perang. Aktivitas ekonomi rakyat mulai pulih dari sana."
+  },
+  {
+    "instruction": "Gudeg murah meriah dimana?",
+    "output": "Gudeg 24 jam ada di Yu Djum. Untuk yang lebih modern, Gudeg Pawon juga buka sampai malam."
+  },
+  {
+    "instruction": "Angkringan halal?",
+    "output": "Angkringan Lik Man untuk yang autentik. The Ratan atau House of Raminten untuk suasana modern yang nyaman."
+  },
+  {
+    "instruction": "Makanan manis khas Jogja?",
+    "output": "Dekat area tersebut banyak warung lokal. Pakai Google Maps cari 'kuliner dekat saya' atau tanya warga."
+  },
+  {
+    "instruction": "Apa risiko menerbitkan surat kabar anti-Belanda?",
+    "output": "Dilarang dan diawasi ketat pemerintah kolonial."
+  },
+  {
+    "instruction": "Bakmi untuk sarapan?",
+    "output": "Bakmi Jawa Mbah Gito wajib dicoba untuk rasa autentik. Kalau cari yang dekat Malioboro, ada Bakmi Djowo Pak Karso."
+  },
+  {
+    "instruction": "Mengapa sulit menentukan makna nama “Yogyakarta”?",
+    "output": "Karena terdapat beberapa interpretasi berbeda dari sumber Jawa dan Belanda."
+  },
+  {
+    "instruction": "Bagaimana Muhammadiyah memandang sekolah?",
+    "output": "Sebagai alat pembentukan intelektual ulama dan ulama intelektual."
+  },
+  {
+    "instruction": "Apa peran Hisbul Wathan?",
+    "output": "Sebagai gerakan kepanduan alternatif yang memperkuat moral keislaman."
+  },
+  {
+    "instruction": "Sate 24 jam Jogja?",
+    "output": "Untuk sate khas Jogja, wajib coba Sate Klathak (kambing jeruji besi). Kalau suka pedas, pilih Sate Ratu."
+  },
+  {
+    "instruction": "Apa itu Chocolate Monggo?",
+    "output": "Chocolate Monggo adalah cokelat premium buatan ahli Belgia di Jogja. Menggunakan kakao lokal Indonesia, rasanya setara cokelat Eropa."
+  },
+  {
+    "instruction": "Apa itu institusionalisasi kesenian menurut dokumen?",
+    "output": "Penyebarluasan seni istana melalui lembaga kursus, sanggar, dan organisasi yang mengajarkan seni secara formal."
+  },
+  {
+    "instruction": "Apa tujuan Majlis PKU?",
+    "output": "Memberikan pelayanan sosial dan kesehatan sesuai ajaran Islam."
+  },
+  {
+    "instruction": "Kapan Belanda membakar rumah Diponegoro di Tegalrejo?",
+    "output": "21 Juli 1825."
+  },
+  {
+    "instruction": "Mengapa Pura Pakualaman memiliki benteng?",
+    "output": "Untuk memperkuat pertahanan lokal."
+  },
+  {
+    "instruction": "Kapan Patih Danurejo VIII diberhentikan?",
+    "output": "Pada 1 Agustus 1945."
+  },
+  {
+    "instruction": "Siapa motor pemerintahan tradisional Yogyakarta?",
+    "output": "Sultan sebagai pemegang kekuasaan tertinggi."
+  },
+  {
+    "instruction": "Apa status Pangeran Natakusuma setelah perang?",
+    "output": "Diberi kedudukan sebagai Paku Alam I."
+  },
+  {
+    "instruction": "Mengapa banyak rakyat mendukung Diponegoro?",
+    "output": "Karena menderita akibat pajak, tekanan ekonomi, dan dominasi pedagang Cina."
+  },
+  {
+    "instruction": "Daerah mana yang tetap makmur setelah perang?",
+    "output": "Pasar Gede di Kotagede."
+  },
+  {
+    "instruction": "Siapa Patih yang terlibat konflik dalam keraton?",
+    "output": "Patih Danureja."
+  },
+  {
+    "instruction": "Wedang jahe enak dimana?",
+    "output": "Angkringan Lik Man untuk yang autentik. The Ratan atau House of Raminten untuk suasana modern yang nyaman."
+  },
+  {
+    "instruction": "Apa yang menyebabkan priyayi kehilangan rumah megah?",
+    "output": "Kerusakan perang dan biaya hidup tinggi."
+  },
+  {
+    "instruction": "Apa tantangan Muhammadiyah dari pihak Islam sendiri?",
+    "output": "Penolakan terhadap pembaruan ajaran dan koreksi arah kiblat."
+  },
+  {
+    "instruction": "Mengapa Kethoprak dianggap kesenian rendah oleh keraton?",
+    "output": "Karena dipentaskan oleh masyarakat kampung dan tidak mengikuti standar estetika istana."
+  },
+  {
+    "instruction": "Kuliner dekat Prambanan?",
+    "output": "Jogja punya banyak pilihan rasa. Manis: Gudeg. Pedas: Oseng Mercon. Gurih: Bakmi Jawa."
+  },
+  {
+    "instruction": "Mengapa pendidikan menjadi fokus utama awal abad 20?",
+    "output": "Karena dianggap sebagai jalan keluar dari kemiskinan dan penjajahan. Banyak organisasi menjadikan pendidikan sebagai agenda utama."
+  },
+  {
+    "instruction": "Mengapa priyayi cenderung memilih kejawen?",
+    "output": "Karena dianggap lebih aman secara politik daripada gerakan Islam yang dicurigai kolonial."
+  },
+  {
+    "instruction": "Gudeg halal di Jogja?",
+    "output": "Untuk gudeg legendaris, coba Gudeg Yu Djum (kering) atau Gudeg Sagan (basah). Keduanya punya cita rasa autentik Yogyakarta."
+  },
+  {
+    "instruction": "Sebutkan beberapa kekuatan (strength) destinasi wisata budaya Yogyakarta menurut analisis SWOC.\nAtraksi kesenian & kebudayaan yang masih kental, objek wisata budaya berkarakter, fasilitas pelayanan dan keamanan yang memadai.\n18. Apa kelemahan (weakness) yang teridentifikasi untuk wisata budaya Yogyakarta?",
+    "output": "Penyebaran atraksi yang tidak merata dan kebutuhan peningkatan kualitas SDM profesional di tiap objek wisata."
+  },
+  {
+    "instruction": "Mengapa keraton sering terjadi intrik politik?",
+    "output": "Karena perebutan kekuasaan dan campur tangan kolonial."
+  },
+  {
+    "instruction": "Siapa saja etnis terbesar di kota Yogyakarta tahun 1900–1950?",
+    "output": "Eropa, Tionghoa-Arab, dan pribumi Jawa-Madura-Bugis-Bali."
+  },
+  {
+    "instruction": "Makanan gurih khas Jogja?",
+    "output": "Jogja punya banyak pilihan rasa. Manis: Gudeg. Pedas: Oseng Mercon. Gurih: Bakmi Jawa."
+  },
+  {
+    "instruction": "Wilayah apa saja yang diperoleh Yogyakarta dalam pembagian Mataram?",
+    "output": "Mataram, Kedu, Bagelen, serta sebagian daerah Mancanegara seperti Madiun, Kediri, Surabaya, dan Rembang."
+  },
+  {
+    "instruction": "Apa kekhawatiran golongan bangsawan terhadap pendidikan?",
+    "output": "Mereka takut jabatan tinggi diisi orang bukan bangsawan."
+  },
+  {
+    "instruction": "Mengapa tata letak Pura Pakualaman mirip Keraton Yogyakarta?",
+    "output": "Karena mengikuti pola arsitektur istana Mataram."
+  },
+  {
+    "instruction": "Masalah apa yang dihadapi Kasultanan dan Pakualaman pada awal abad ke-19?",
+    "output": "Intrik politik, persewaan tanah luas, dan pajak memberatkan."
+  },
+  {
+    "instruction": "Mengapa aktivitas misi Kristen memicu respons Muhammadiyah?",
+    "output": "Karena misi aktif di bidang kesehatan dan pendidikan, sehingga umat perlu mengimbanginya."
+  },
+  {
+    "instruction": "Sampai kapan Diponegoro hidup di pengasingan?",
+    "output": "Sampai wafat pada 1855."
+  },
+  {
+    "instruction": "Apa makna nama Ngayogyakarta Hadiningrat?",
+    "output": "Berarti tempat yang baik dan rahayu, menggambarkan masyarakat berakhlak baik dan berhati tulus."
+  },
+  {
+    "instruction": "Siapa yang memulai gerakan dana pendidikan pribumi?",
+    "output": "Pangeran Notodirojo."
+  },
+  {
+    "instruction": "Apa dampak organisasi modern terhadap struktur tradisional?",
+    "output": "Mengurangi otoritas feodal dan membuka ruang partisipasi rakyat."
+  },
+  {
+    "instruction": "Mengapa pusat studi kebudayaan Jawa dianggap penting?",
+    "output": "Karena masih kurang tempat yang meneliti, mendokumentasi, dan mengangkat kebudayaan Jawa."
+  },
+  {
+    "instruction": "Tempat makan romantis di Jogja?",
+    "output": "Jogja punya banyak pilihan rasa. Manis: Gudeg. Pedas: Oseng Mercon. Gurih: Bakmi Jawa."
+  },
+  {
+    "instruction": "Apa sumber inspirasi nasionalisme awal abad XX?",
+    "output": "Pemikiran modern Barat dan pendidikan."
+  },
+  {
+    "instruction": "Apa pengertian segendhong-sepikul dalam waris?",
+    "output": "Anak laki-laki mendapat dua bagian, anak perempuan satu bagian."
+  },
+  {
+    "instruction": "Gudeg mercon buka jam berapa?",
+    "output": "Gudeg Mercon Bu Tinah buka dari pukul 06.00 - 14.00 WIB. Biasanya sold out sebelum jam 2 siang."
+  },
+  {
+    "instruction": "Bakmi halal Jogja?",
+    "output": "Bakmi Jawa Mbah Gito wajib dicoba untuk rasa autentik. Kalau cari yang dekat Malioboro, ada Bakmi Djowo Pak Karso."
+  },
+  {
+    "instruction": "Apa simbol awal kebangkitan nasional?",
+    "output": "Budi Utomo."
+  },
+  {
+    "instruction": "Bagaimana sifat kebudayaan dalam masyarakat Yogyakarta menurut buku tersebut?",
+    "output": "Kebudayaan bersifat dinamis, selalu berkembang menyesuaikan perubahan zaman."
+  },
+  {
+    "instruction": "Mengapa kehidupan kultural mulai melemah?",
+    "output": "Karena munculnya priyayi baru berpendidikan yang menggeser nilai tradisional."
+  },
+  {
+    "instruction": "Apa perubahan penting yang terjadi pada nilai status masyarakat abad ke-20?",
+    "output": "Pergeseran dari ascribed status (keturunan) menjadi achieved status (prestasi)."
+  },
+  {
+    "instruction": "Apa manfaat teknis letak keraton yang berada di antara Sungai Code dan Winongo?",
+    "output": "Mempercepat peresapan air hujan dan mengurangi risiko banjir."
+  },
+  {
+    "instruction": "Untuk apa plengkung dibangun?",
+    "output": "Sebagai lima pintu masuk utama benteng keraton."
+  },
+  {
+    "instruction": "Es campur enak dimana?",
+    "output": "Tempo Gelato untuk gelato premium. Rujak Es Krim Pak Nardi untuk pengalaman tradisional unik."
+  },
+  {
+    "instruction": "Nasi kucing itu apa?",
+    "output": "Angkringan Lik Man untuk yang autentik. The Ratan atau House of Raminten untuk suasana modern yang nyaman."
+  },
+  {
+    "instruction": "Apa yang membuat pasukan Belanda jauh lebih kuat dalam peperangan?",
+    "output": "Mereka memiliki senjata api modern dan taktik militer yang lebih terstruktur. Logistik mereka juga jauh lebih stabil dibanding pasukan Diponegoro."
+  },
+  {
+    "instruction": "Bagaimana struktur birokrasi pusat Kasultanan?",
+    "output": "Sultan dibantu dua Pepatih Dalem dan delapan Kenayakan."
+  },
+  {
+    "instruction": "Apa dampak perubahan kebudayaan pada tatanan sosial Yogyakarta?",
+    "output": "Dampaknya adalah penyesuaian pola hidup, termasuk perilaku dan norma sosial."
+  },
+  {
+    "instruction": "Dimana beli Roti Gembong yang lagi hits?",
+    "output": "Roti Gembong Gedhe. Rotinya lembut dengan isian kekinian seperti Ovomaltine."
+  },
+  {
+    "instruction": "Mengapa pluralitas etnis muncul di kota Yogyakarta?",
+    "output": "Karena kolonial membuka ruang migrasi bagi Cina, Arab, dan Indo."
+  },
+  {
+    "instruction": "Bagaimana peran Sultan Hamengku Buwana I dalam strategi penataan keraton?",
+    "output": "Ia merancang penataan keraton dengan mempertimbangkan aspek militer, budaya, dan religius."
+  },
+  {
+    "instruction": "Kopi Klotok itu apa?",
+    "output": "Kopi Klotok adalah kafe legendaris di Kaliurang (KM 16) dengan pisang goreng raksasa dan view Merapi. Suasana vintage, selalu rame."
+  },
+  {
+    "instruction": "Kapan Sultan Hamengku Buwana II dicopot dari tahta?",
+    "output": "13 Desember 1810."
+  },
+  {
+    "instruction": "Apa yang mendorong lahirnya banyak sekolah di Yogyakarta?",
+    "output": "Kesadaran pentingnya pendidikan modern."
+  }
+]
